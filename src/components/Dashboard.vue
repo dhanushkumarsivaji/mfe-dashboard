@@ -224,8 +224,6 @@ export default {
     InputText,
     Button,
     Column,
-    DataTable,
-    Chart,
   },
   data() {
     return {
